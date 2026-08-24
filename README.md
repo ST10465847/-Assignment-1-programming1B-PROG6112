@@ -1,5 +1,5 @@
 # -Assignment-1-programming1B-PROG6112
-A Java console application for managing patient admissions, $4 \times 5$ ward bed allocations, and automated reporting. Built with OOP principles (inheritance &amp; encapsulation) and tested using JUnit 5.
+A Java console application for managing patient admissions, 4 \times 5 ward bed allocations, and automated reporting. Built with OOP principles and tested using JUnit 5.
 # MediCare Hospital Patient Admission System
 
 A Java-based console application designed for **MediCare Hospital** to manage patient admissions, record updates, bed allocations across a 20-bed ward, and automated reporting.
