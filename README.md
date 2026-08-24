@@ -11,7 +11,7 @@ A Java-based console application designed for **MediCare Hospital** to manage pa
 * **Object-Oriented Architecture:** Includes encapsulation, inheritance (`Inpatient` extends `Patient`), and method overriding.
 * **Unit Testing:** Integrated JUnit 5 suite testing bed allocations, boundary limits, and CRUD operations.
 
-## 🚀 How to Run
+##  How to Run
 1. Clone the repository:
    ```bash
    git clone [https://github.com/your-username/MediCareHospital2.git](https://github.com/your-username/MediCareHospital2.git)
